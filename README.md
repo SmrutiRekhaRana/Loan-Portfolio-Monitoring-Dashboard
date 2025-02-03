@@ -1,3 +1,3 @@
 # Loan Portfolio Tracking Dashboard (with Power BI Visualizations)
 ## Project Objective
- This project is to develop an interactive dashboard to efficiently monitor and analyze loan portfolios.
+The objective of this project is to develop an interactive Power BI dashboard to monitor and analyze a loan portfolio's performance over time.
