@@ -4,7 +4,7 @@ The objective of this project is to develop an interactive Power BI dashboard to
 
 ## Dataset Used
 - <a href="https://github.com/SmrutiRekhaRana/Loan-Portfolio-Monitoring-Dashboard/blob/main/Bank_Loans_Dataset.xlsx">Dataset</a>
-##Questions (KPIs)
+## Questions (KPIs)
 -What is the total outstanding amount and the number of loans by month?
 -How has the loan portfolio performed on a quarterly basis?
 -How is the outstanding loan amount distributed across different loan classifications?
