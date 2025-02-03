@@ -1,2 +1,3 @@
-# Loan-Portfolio-Monitoring-Dashboard
-A comprehensive dashboard built using Power BI for tracking and analyzing loan portfolios. It provides real-time insights into loan performance, risk analysis, delinquency rates, and key financial metrics, helping stakeholders make informed decisions.
+# Loan Portfolio Tracking Dashboard (with Power BI Visualizations)
+## Project Objective
+ This project is to develop an interactive dashboard to efficiently monitor and analyze loan portfolios.
