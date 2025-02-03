@@ -21,3 +21,11 @@ The objective of this project is to develop an interactive Power BI dashboard to
 ## Dashboard
 ![Loan_Portfolio_Monitor](https://github.com/user-attachments/assets/f0a5d267-2438-4e7f-a8ab-90e5a03f5656)
 
+## Project Insight
+- Provides up-to-date insights into loan performance, outstanding amounts, and loan classifications.
+- Helps identify high-risk loans by tracking delinquency rates and classification shifts.
+- Breaks down data by month and quarter to reveal trends over time, enhancing strategic planning.
+- Visualizes the health of the loan portfolio, allowing stakeholders to track trends and make informed decisions.
+
+## Final Conclusion
+The Loan Portfolio Monitoring Dashboard provides real-time insights into loan performance, risk assessment, portfolio health, and trends over time, enabling data-driven decision-making and effective risk management.
