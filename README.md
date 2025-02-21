@@ -20,6 +20,7 @@ The objective of this project is to develop an interactive Power BI dashboard to
 
 ## Dashboard
 ![Loan_Portfolio_Monitor](https://github.com/user-attachments/assets/f0a5d267-2438-4e7f-a8ab-90e5a03f5656)
+<a href="https://github.com/SmrutiRekhaRana/Loan-Portfolio-Monitoring-Dashboard/blob/main/Loan_Portfolio_Monitoring.pbix">PowerBI Dashboard</a>
 
 ## Project Insight
 - Provides up-to-date insights into loan performance, outstanding amounts, and loan classifications.
